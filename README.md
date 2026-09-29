@@ -1,4 +1,3 @@
-<img width="828" height="635" alt="powerbi_dashboard" src="https://github.com/user-attachments/assets/53ae8f9e-0b3a-4dda-af7e-839a139ccba3" />
 # 🚶‍♂️ Crowd Flow & Bottleneck Forecasting
 
 A time-series machine learning project designed to forecast pedestrian flow patterns and predict crowd bottlenecks, supporting proactive crowd management and dispatching strategies (inspired by seasonal peak operations during Hajj & Umrah).
@@ -15,6 +14,7 @@ A time-series machine learning project designed to forecast pedestrian flow patt
 
 ## 📊 Visualizations & Output
 ![Forecast vs Actual](crowd_forecast_chart.png)
+<img width="828" height="635" alt="powerbi_dashboard" src="https://github.com/user-attachments/assets/53ae8f9e-0b3a-4dda-af7e-839a139ccba3" />
 
 ---
 
